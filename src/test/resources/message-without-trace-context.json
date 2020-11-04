@@ -1,0 +1,9 @@
+{
+    "message": {
+        "attributes": {
+        },
+        "data": "SGVsbG8gQ2xvdWQgUHViL1N1YiEgSGVyZSBpcyBteSBtZXNzYWdlIQ==",
+        "messageId": "136969346945"
+    },
+    "subscription": "projects/myproject/subscriptions/mysubscription"
+}

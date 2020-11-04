@@ -1,0 +1,5 @@
+com.instana.plugin.javatrace:
+  instrumentation:
+    sdk:
+      packages:
+        - com.instana.gcp.pubsub.push
